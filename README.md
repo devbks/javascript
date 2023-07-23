@@ -4018,6 +4018,7 @@ Other Style Guides
   - **The Nerdery**: [thenerdery/javascript-standards](https://github.com/thenerdery/javascript-standards)
   - **Tomify**: [tomprats](https://github.com/tomprats)
   - **Traitify**: [traitify/eslint-config-traitify](https://github.com/traitify/eslint-config-traitify)
+  - **Transformd** [Transformd](https://github.com/transformd-ltd)
   - **T4R Technology**: [T4R-Technology/javascript](https://github.com/T4R-Technology/javascript)
   - **UrbanSim**: [urbansim](https://github.com/urbansim/)
   - **VoxFeed**: [VoxFeed/javascript-style-guide](https://github.com/VoxFeed/javascript-style-guide)
